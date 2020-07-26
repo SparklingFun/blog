@@ -1,12 +1,13 @@
 ---
 tags:
-- 前端
 - CSS
 - Vue.js
-- 工具函数
+- 前端
 categories: Frontend
 title: 利用CSS写一个可高度自定义的多行文本自动省略Vue组件
-date: 2019-08-12T00:00:00+08:00
+date: 2019-08-12T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 目前对于文本溢出是通过

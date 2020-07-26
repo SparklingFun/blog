@@ -47,6 +47,7 @@ fields:
   default: []
   label: 标签
 pages:
+- source/_posts/fe/利用css写一个可高度自定义的多行文本自动省略vue组件.md
 - source/_posts/fe/利用css给自己的博客增加灰度化效果.md
 - source/_posts/fe/前端看http.md
 - source/_posts/fe/在一个较大的对象数组里查询指定的对象.md
