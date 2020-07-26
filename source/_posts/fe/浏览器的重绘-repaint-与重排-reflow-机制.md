@@ -1,12 +1,12 @@
 ---
 tags:
 - 前端
-- 浏览器
-- 基础
 - 性能
 categories: Frontend
 title: 浏览器的重绘（Repaint）与重排（Reflow）机制
-date: 2019-08-21T00:00:00+08:00
+date: 2019-08-21T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 #### 什么时候会触发重排？
