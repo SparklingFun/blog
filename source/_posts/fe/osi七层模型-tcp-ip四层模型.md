@@ -1,10 +1,11 @@
 ---
 tags:
-- 基础
-- 网络
+- TCP
 categories: Frontend
 title: OSI七层模型&TCP/IP四层模型
 date: 2019-08-19T16:00:00.000+00:00
+excerpt: ''
+thumbnail: ''
 
 ---
 #### OSI七层模型
