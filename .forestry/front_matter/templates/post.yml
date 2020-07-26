@@ -49,4 +49,5 @@ fields:
 pages:
 - source/_posts/life/bye-qyer.md
 - source/_posts/other/rm2100-ax200-ping.md
+- source/_posts/other/利用wsl在windows下获得更好的开发体验.md
 - source/_posts/other/题解-每周10道前端面试题.md

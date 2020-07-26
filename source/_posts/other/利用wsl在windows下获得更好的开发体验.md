@@ -4,6 +4,8 @@ tags:
 - WSL
 date: 2020-04-22T14:44:42.000+08:00
 title: 利用WSL在Windows下获得更好的开发体验
+excerpt: ''
+thumbnail: ''
 
 ---
 ## 为什么Windows不适合作为开发使用？
