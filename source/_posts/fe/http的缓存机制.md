@@ -1,11 +1,11 @@
 ---
 tags:
-- 前端
 - HTTP
-- 缓存
 categories: Frontend
 title: HTTP的缓存机制
-date: 2019-08-20T00:00:00+08:00
+date: 2019-08-20T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 #### 缓存用来做什么？
