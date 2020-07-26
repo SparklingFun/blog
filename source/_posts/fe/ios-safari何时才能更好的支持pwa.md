@@ -3,8 +3,10 @@ categories: Frontend
 tags:
 - PWA
 - Safari
-date: 2020-04-14T16:07:03+08:00
+date: 2020-04-14T16:07:03.000+08:00
 title: iOS Safari何时才能更好的支持PWA？
+excerpt: ''
+thumbnail: ''
 
 ---
 ### 写在前面
