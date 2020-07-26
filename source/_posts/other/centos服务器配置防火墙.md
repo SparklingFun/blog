@@ -1,11 +1,12 @@
 ---
 tags:
-- 服务器
 - CentOS
 - Linux
 categories: Other
 title: CentOS服务器配置防火墙
-date: 2019-08-26T00:00:00+08:00
+date: 2019-08-26T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 - 将端口添加到区域（永久 `--permanent`）
