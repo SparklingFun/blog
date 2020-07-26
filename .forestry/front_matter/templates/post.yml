@@ -47,6 +47,7 @@ fields:
   default: []
   label: 标签
 pages:
+- source/_posts/fe/对于前端熟悉又陌生的ria.md
 - source/_posts/fe/我们为什么需要使用vuex做状态管理.md
 - source/_posts/fe/执行npm命令报lifecycle的警告解决.md
 - source/_posts/fe/浏览器的重绘-repaint-与重排-reflow-机制.md

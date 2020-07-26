@@ -1,10 +1,11 @@
 ---
 categories: Frontend
 tags:
-- 名词解释
 - Frontend
-date: 2020-02-28T03:09:27+08:00
+date: 2020-02-28T03:09:27.000+08:00
 title: 对于前端熟悉又陌生的RIA
+excerpt: ''
+thumbnail: ''
 
 ---
 ### RIA是什么？
