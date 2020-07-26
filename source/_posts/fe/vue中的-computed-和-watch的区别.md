@@ -1,11 +1,11 @@
 ---
 tags:
-- 前端
 - Vue.js
-- 基础
 categories: Frontend
 title: Vue中的 computed 和 watch的区别
-date: 2019-08-22T00:00:00+08:00
+date: 2019-08-22T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 #### computed

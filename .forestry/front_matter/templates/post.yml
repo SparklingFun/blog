@@ -47,6 +47,7 @@ fields:
   default: []
   label: 标签
 pages:
+- source/_posts/fe/vue中的-computed-和-watch的区别.md
 - source/_posts/fe/vue使用自定义指令完成节流和防抖.md
 - source/_posts/fe/yarn内那些冷门的命令.md
 - source/_posts/fe/从dom与虚拟dom了解vue和react是如何响应数据变化的.md
