@@ -47,6 +47,7 @@ fields:
   default: []
   label: 标签
 pages:
+- source/_posts/fe/javascript面向对象编程-es6版本.md
 - source/_posts/fe/js中的异步链式调用.md
 - source/_posts/fe/meta标签的使用.md
 - source/_posts/fe/node-js环境log颜色表.md
