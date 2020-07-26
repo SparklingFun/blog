@@ -1,11 +1,11 @@
 ---
 tags:
 - HTML
-- 前端
-- meta标签
 categories: Frontend
 title: meta标签的使用
-date: 2019-08-17T00:00:00+08:00
+date: 2019-08-17T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 平时使用时最常见的用法：
