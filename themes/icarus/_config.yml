@@ -181,36 +181,36 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: Sparkling
         # Author title
-        author_title: Your title
+        author_title: Technology sparks fun
         # Author's current location
-        location: Your location
+        location: Beijing, China
         # URL or path to the avatar image
-        avatar: 
+        avatar: /assets/avatar.png
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: 'https://github.com/ppoffice'
+        # follow_link: 'https://github.com/SparklingFun'
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
-                url: 'https://github.com/ppoffice'
-            Facebook:
-                icon: fab fa-facebook
-                url: 'https://facebook.com'
-            Twitter:
-                icon: fab fa-twitter
-                url: 'https://twitter.com'
-            Dribbble:
-                icon: fab fa-dribbble
-                url: 'https://dribbble.com'
-            RSS:
-                icon: fas fa-rss
-                url: /
+                url: 'https://github.com/SparklingFun'
+            # Facebook:
+            #     icon: fab fa-facebook
+            #     url: 'https://facebook.com'
+            # Twitter:
+            #     icon: fab fa-twitter
+            #     url: 'https://twitter.com'
+            # Dribbble:
+            #     icon: fab fa-dribbble
+            #     url: 'https://dribbble.com'
+            # RSS:
+            #     icon: fas fa-rss
+            #     url: /
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -223,8 +223,7 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Hexo: 'https://hexo.io'
-            Bulma: 'https://bulma.io'
+            Icarus Theme: 'https://blog.zhangruipeng.me/hexo-theme-icarus/'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
@@ -312,11 +311,11 @@ plugins:
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
     # Name or URL template of the JavaScript and/or stylesheet CDN provider
-    # cdn: jsdelivr
-    cdn: loli
+    cdn: jsdelivr
+    # cdn: loli
     # Name or URL template of the webfont CDN provider
-    # fontcdn: google
-    fontcdn: loli
+    fontcdn: google
+    # fontcdn: loli
     # Name or URL of the fontawesome icon font CDN provider
-    # iconcdn: fontawesome
-    iconcdn: loli
+    iconcdn: fontawesome
+    # iconcdn: loli
