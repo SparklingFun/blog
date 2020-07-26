@@ -1,11 +1,11 @@
 ---
 tags:
-- 前端
-- 基础
 - JavaScript
 categories: Frontend
 title: Task, Job 与 EventLoop
 date: 2019-08-20T16:00:00.000+00:00
+excerpt: ''
+thumbnail: ''
 
 ---
 #### 在解释事件循环前……
