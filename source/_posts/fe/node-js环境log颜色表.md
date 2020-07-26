@@ -1,11 +1,12 @@
 ---
 tags:
-- 前端
 - Node.js
-- CheatSheet
+- Cheatsheet
 categories: Frontend
 title: Node.js环境log颜色表
-date: 2019-08-12T00:00:00+08:00
+date: 2019-08-12T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 Refer from: [https://stackoverflow.com/questions/9781218/how-to-change-node-jss-console-font-color]()
