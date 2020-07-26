@@ -1,11 +1,11 @@
 ---
 tags:
-- 前端
 - Javascript
-- 基础
 categories: Frontend
 title: Javascript 基础知识点总结
-date: 2019-08-12T00:00:00+08:00
+date: 2019-08-12T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 #### 五种基础类型（ES5后6种）
