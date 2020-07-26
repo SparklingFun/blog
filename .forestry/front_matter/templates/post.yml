@@ -47,6 +47,7 @@ fields:
   default: []
   label: 标签
 pages:
+- source/_posts/fe/speaking-javascript-阅读笔记-一.md
 - source/_posts/fe/speaking-javascript-阅读笔记-三.md
 - source/_posts/fe/speaking-javascript-阅读笔记-二.md
 - source/_posts/fe/speaking-javascript-阅读笔记-附加篇.md

@@ -1,10 +1,11 @@
 ---
 categories: Frontend
 tags:
-- 笔记
 - JavaScript
 date: 2020-02-28T07:31:08.000+00:00
 title: '"Speaking JavaScript"阅读笔记（一）'
+excerpt: ''
+thumbnail: ''
 
 ---
 ### 写在前面
