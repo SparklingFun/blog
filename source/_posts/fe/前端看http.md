@@ -1,11 +1,12 @@
 ---
 tags:
 - 前端
-- 基础
 - HTTP
 categories: Frontend
 title: 前端看HTTP
 date: 2019-08-18T16:00:00.000+00:00
+excerpt: ''
+thumbnail: ''
 
 ---
 #### HTTP是什么
