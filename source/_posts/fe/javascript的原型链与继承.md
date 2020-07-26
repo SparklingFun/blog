@@ -1,11 +1,11 @@
 ---
 tags:
-- 前端
-- 基础
 - JavaScript
 categories: Frontend
 title: JavaScript的原型链与继承
 date: 2019-08-21T16:00:00.000+00:00
+excerpt: ''
+thumbnail: ''
 
 ---
 > 感谢[JS原型链与继承别再被问倒了 - 路易斯@juejin](https://juejin.im/post/58f94c9bb123db411953691b)
