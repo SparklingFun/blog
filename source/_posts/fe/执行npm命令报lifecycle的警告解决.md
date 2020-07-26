@@ -1,10 +1,11 @@
 ---
 tags:
-- Frontend
 - NPM
 categories: Frontend
 title: 执行NPM命令报lifecycle的警告解决
-date: 2019-12-28T00:00:00+08:00
+date: 2019-12-28T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 今天使用npm时，发现了一条如下的警告：
