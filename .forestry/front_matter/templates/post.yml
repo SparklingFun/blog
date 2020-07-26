@@ -47,6 +47,7 @@ fields:
   default: []
   label: 标签
 pages:
+- source/_posts/fe/speaking-javascript-阅读笔记-附加篇.md
 - source/_posts/fe/task-job-与-eventloop.md
 - source/_posts/fe/vue-3-0-beta-b站直播内容速记.md
 - source/_posts/fe/vue-v2-6-10-的选项-生命周期钩子.md

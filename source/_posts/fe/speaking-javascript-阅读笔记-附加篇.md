@@ -1,10 +1,11 @@
 ---
 categories: Frontend
 tags:
-- 笔记
 - JavaScript
-date: 2020-03-02T17:48:00+08:00
+date: 2020-03-02T17:48:00.000+08:00
 title: '"Speaking JavaScript"阅读笔记（附加篇）'
+excerpt: ''
+thumbnail: ''
 
 ---
 _本篇开始将一部分浏览器与Node.js环境相关的知识点补充进来_
