@@ -1,11 +1,11 @@
 ---
 tags:
 - 前端
-- HTML
-- 基础
 categories: Frontend
 title: 养成好习惯 - HTML语义化
-date: 2019-08-12T00:00:00+08:00
+date: 2019-08-12T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 ### 何为语义化？
