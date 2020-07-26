@@ -1,10 +1,11 @@
 ---
 tags:
 - HTTP
-- 基础
 categories: Frontend
 title: HTTP状态码
-date: 2019-08-20T00:00:00+08:00
+date: 2019-08-20T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 - 2XX 成功
