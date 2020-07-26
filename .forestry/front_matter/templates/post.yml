@@ -47,6 +47,7 @@ fields:
   default: []
   label: 标签
 pages:
+- source/_posts/fe/html-相关知识点总结.md
 - source/_posts/fe/http状态码.md
 - source/_posts/fe/http的缓存机制.md
 - source/_posts/fe/ios-safari何时才能更好的支持pwa.md

@@ -1,10 +1,11 @@
 ---
 tags:
-- 前端
 - HTML
 categories: Frontend
 title: HTML 相关知识点总结
-date: 2019-08-12T00:00:00+08:00
+date: 2019-08-12T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 #### HTML 语义化
@@ -28,4 +29,3 @@ date: 2019-08-12T00:00:00+08:00
     6. HTML SSE 
     7. HTML Canvas/WebGL 
     8. HTML Audio/Video
-    
