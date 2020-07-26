@@ -3,7 +3,9 @@ tags:
 - 软件模式
 categories: Other
 title: SaaS, laaS, PaaS这些名词的快速理解
-date: 2020-01-07T00:00:00+08:00
+date: 2020-01-07T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 ## SaaS (软件即服务：Software as a Service)
