@@ -1,10 +1,11 @@
 ---
 categories: Frontend
 tags:
-- 笔记
 - JavaScript
 date: 2020-03-01T10:18:25.000+00:00
 title: '"Speaking JavaScript"阅读笔记（三）'
+excerpt: ''
+thumbnail: ''
 
 ---
 _本章开始写函数与对象，内容相对较多单起一章专门记录_
@@ -299,4 +300,3 @@ Wine.prototyte.incAge.call(john, 3) // 类似于这样的模式
 对于泛型方法，最常用的是处理一些“Array like”的元素，借用数组方法进行处理。
 
 通过 `Array.isArray` 也可以作为数组的判断，能够区分Array-like。
-
