@@ -47,6 +47,7 @@ fields:
   default: []
   label: 标签
 pages:
+- source/_posts/fe/移动端ios特殊的点击事件.md
 - source/_posts/life/bye-qyer.md
 - source/_posts/other/centos服务器配置防火墙.md
 - source/_posts/other/git常用命令速览.md

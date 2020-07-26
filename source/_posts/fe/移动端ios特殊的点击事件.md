@@ -2,10 +2,11 @@
 tags:
 - 前端
 - Safari
-- Bug
 categories: Frontend
 title: 移动端iOS特殊的点击事件
-date: 2019-08-13T00:00:00+08:00
+date: 2019-08-13T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 ### 起因
