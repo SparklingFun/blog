@@ -2,10 +2,10 @@
 categories: Frontend
 tags:
 - JavaScript
-- Node.js
-- ES6
-date: 2020-03-18T15:24:18+08:00
+date: 2020-03-18T15:24:18.000+08:00
 title: JavaScript的模块机制
+excerpt: ''
+thumbnail: ''
 
 ---
 目前，JavaScript生态下最常见的模块机制大致分为以下四种：
