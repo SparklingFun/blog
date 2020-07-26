@@ -2,10 +2,11 @@
 tags:
 - 前端
 - Vue.js
-- 基础
 categories: Frontend
 title: 我们为什么需要使用Vuex做状态管理？
-date: 2019-08-22T00:00:00+08:00
+date: 2019-08-22T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 #### Vuex是什么
