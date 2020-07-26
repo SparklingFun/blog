@@ -1,13 +1,11 @@
 ---
 tags:
-- Frontend
 - Vue.js
-- React.js
-- DOM
-- VDOM
 categories: Frontend
 title: 从DOM与虚拟DOM了解Vue和React是如何响应数据变化的
-date: 2020-01-08T00:00:00+08:00
+date: 2020-01-08T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 ## 先说浏览器的渲染模式
