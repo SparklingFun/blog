@@ -1,11 +1,11 @@
 ---
 tags:
 - NPM
-- Yarn
-- Frontend
 categories: Frontend
 title: Yarn内那些冷门的命令
 date: 2020-01-05T16:00:00.000+00:00
+excerpt: ''
+thumbnail: ''
 
 ---
 ## Yarn与Package
