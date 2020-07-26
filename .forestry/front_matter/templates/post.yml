@@ -1,0 +1,48 @@
+---
+label: Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: 标题
+  config:
+    required: true
+- name: categories
+  type: select
+  default: Frontend
+  config:
+    required: true
+    options:
+    - Frontend
+    - Life
+    - Other
+    source:
+      type: simple
+      section: 560f5068-0b59-4ccb-850e-d37ef086d8dd
+      file: 
+      path: 
+  label: 分类
+- type: datetime
+  name: date
+  label: 创建时间
+  config:
+    required: true
+  default: now
+- name: excerpt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: 简介
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 64
+  label: 缩略图
+- name: tags
+  type: tag_list
+  default: []
+  label: 标签
