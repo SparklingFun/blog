@@ -1,10 +1,11 @@
 ---
 categories: Other
 tags:
-- Sentry
 - 前端工程化
-date: 2020-05-08T00:22:15+08:00
+date: 2020-05-08T00:22:15.000+08:00
 title: Sentry——一站式错误监控平台部署记录
+excerpt: Sentry这个平台除了部署稍微麻烦些，其实还是很好用的，简单记录了自己私有部署Sentry遇到的一些坑
+thumbnail: ''
 
 ---
 ## Sentry是什么？
@@ -70,4 +71,3 @@ docker-compose up -d
 ### symbolicator
 
 ### memcache + redis ？
-
