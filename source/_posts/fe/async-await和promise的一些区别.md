@@ -1,11 +1,11 @@
 ---
 tags:
-- 前端
 - JavaScript
-- 基础
 categories: Frontend
 title: Async/await和Promise的一些区别
-date: 2019-08-20T00:00:00+08:00
+date: 2019-08-20T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 #### 先说说Promise
