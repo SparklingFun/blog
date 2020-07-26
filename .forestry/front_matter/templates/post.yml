@@ -46,3 +46,7 @@ fields:
   type: tag_list
   default: []
   label: 标签
+pages:
+- source/_posts/life/bye-qyer.md
+- source/_posts/other/rm2100-ax200-ping.md
+- source/_posts/other/题解-每周10道前端面试题.md
