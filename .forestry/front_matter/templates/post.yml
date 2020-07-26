@@ -47,6 +47,7 @@ fields:
   default: []
   label: 标签
 pages:
+- source/_posts/fe/从零到一实现一个js版深克隆.md
 - source/_posts/fe/做前端笔试题前-需要复习的数组方法.md
 - source/_posts/fe/养成好习惯-html语义化.md
 - source/_posts/fe/利用css写一个可高度自定义的多行文本自动省略vue组件.md
