@@ -2,10 +2,10 @@
 categories: Frontend
 tags:
 - Vue.js
-- Vue 3
-- 速记
-date: 2020-04-21T22:27:05+08:00
+date: 2020-04-21T22:27:05.000+08:00
 title: '"Vue 3.0 Beta"B站直播内容速记'
+excerpt: ''
+thumbnail: ''
 
 ---
 ## 直播内容
