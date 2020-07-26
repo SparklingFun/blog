@@ -1,10 +1,11 @@
 ---
 tags:
-- git
 - CheatSheet
 categories: Other
 title: Git常用命令速览
-date: 2019-08-12T00:00:00+08:00
+date: 2019-08-12T00:00:00.000+08:00
+excerpt: ''
+thumbnail: ''
 
 ---
 ### git基本概念
