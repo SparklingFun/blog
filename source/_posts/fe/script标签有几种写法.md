@@ -1,10 +1,11 @@
 ---
 tags:
-- 前端
 - HTML
 categories: Frontend
 title: script标签有几种写法
 date: 2019-08-16T16:00:00.000+00:00
+excerpt: ''
+thumbnail: ''
 
 ---
 #### script 标签有哪些属性
