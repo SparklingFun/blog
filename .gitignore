@@ -117,3 +117,6 @@ yarn.lock
 
 # Cloudflare configs
 wrangler.toml
+
+# ignore dist...
+dist
