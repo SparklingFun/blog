@@ -77,7 +77,7 @@ navbar:
         Archives: /archives
         Categories: /categories
         Tags: /tags
-        About: /about
+        # About: /about
         # 前端: /fe
         # 生活: /life
         # 其他: /other
@@ -193,7 +193,7 @@ widgets:
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        # follow_link: 'https://github.com/SparklingFun'
+        follow_link: ''
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
