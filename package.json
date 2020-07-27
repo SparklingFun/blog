@@ -29,5 +29,8 @@
     "hexo-util": "^1.8.0",
     "inferno": "^7.3.3",
     "inferno-create-element": "^7.3.3"
+  },
+  "devDependencies": {
+    "minimist": "^0.2.1"
   }
 }
