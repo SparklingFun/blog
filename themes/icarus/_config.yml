@@ -196,9 +196,9 @@ widgets:
         follow_link: ''
         # Links to be shown on the bottom of the profile widget
         social_links:
-            Github:
-                icon: fab fa-github
-                url: 'https://github.com/SparklingFun'
+            # Github:
+            #     icon: fab fa-github
+            #     url: 'https://github.com/SparklingFun'
             # Facebook:
             #     icon: fab fa-facebook
             #     url: 'https://facebook.com'
