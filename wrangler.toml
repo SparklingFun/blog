@@ -1,0 +1,10 @@
+name = "blog-sparkling-land"
+type = "webpack"
+account_id = "a604359a96ebfa4d1829d7679651a5b9"
+# workers_dev = true
+route = "blog.sparkling.land/*"
+zone_id = "319fc64c69e8104405f4fcf2b5adccb7"
+
+[site]
+bucket = "./public"
+entry-point = "workers-site"
