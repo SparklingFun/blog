@@ -10,6 +10,7 @@
     "build": "hexo g"
   },
   "dependencies": {
+    "@cloudflare/kv-asset-handler": "^0.0.11",
     "bulma-stylus": "0.8.0",
     "deepmerge": "^4.2.2",
     "hexo": "^4.2.0",

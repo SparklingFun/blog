@@ -18,7 +18,7 @@ $dark-primary ?= #252D38
 $dark-bg ?= #181C27
 $dark-label ?= #485061
 
-$primary ?= $dark-primary
+$primary ?= $white
 $info ?= $blue
 $success ?= $green
 $warning ?= $orange
@@ -221,6 +221,8 @@ $searchbox-bg-result-item-hover ?= $white
             background-repeat: no-repeat
             background-size: 0 100%
             transition: background-size .25s ease-in-out
+        .title a:hover
+            text-shadow: 1px 10px #ccc
 
         .title:hover a
             background-size: 100% 100%

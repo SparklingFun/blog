@@ -223,7 +223,7 @@ widgets:
         type: links
         # Names and URLs of the sites
         links:
-            Icarus Theme: 'https://blog.zhangruipeng.me/hexo-theme-icarus/'
+            Icarus: 'https://blog.zhangruipeng.me/hexo-theme-icarus/'
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
