@@ -10,7 +10,6 @@
     "build": "hexo g"
   },
   "dependencies": {
-    "@cloudflare/kv-asset-handler": "^0.0.11",
     "bulma-stylus": "0.8.0",
     "deepmerge": "^4.2.2",
     "hexo": "^4.2.0",
@@ -29,7 +28,8 @@
     "hexo-server": "^1.0.0",
     "hexo-util": "^1.8.0",
     "inferno": "^7.3.3",
-    "inferno-create-element": "^7.3.3"
+    "inferno-create-element": "^7.3.3",
+    "kv4cf": "^0.1.0"
   },
   "devDependencies": {
     "minimist": "^0.2.1"
