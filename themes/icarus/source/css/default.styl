@@ -11,7 +11,7 @@ $black-bis ?= #050a0e
 // $orange ?= #ff8e3c
 // $yellow ?= #fcee09
 // $green ?= #00ff41
-// $blue ?= #02d7f2
+$blue ?= #02d7f2
 // $purple ?= #9561d2
 // $red ?= #ff003c
 $dark-primary ?= #252D38
@@ -65,12 +65,12 @@ $tag-background-color ?= $dark-label
 $timeline-fg-line ?= $white-bis
 $timeline-bg-line ?= $body-background-color
 $post-navigation-fg ?= $white-bis
-$searchbox-bg-container ?= $white-bis
-$searchbox-border ?= $white-bis
-$searchbox-bg-input ?= $white-bis
+$searchbox-bg-container ?= $dark-bg
+$searchbox-border ?= $dark-primary
+$searchbox-bg-input ?= $dark-bg
 $searchbox-bg-close-hover ?= $white
 $searchbox-bg-close-active ?= $searchbox-bg-close-hover
-$searchbox-bg-result-item-hover ?= $white
+$searchbox-bg-result-item-hover ?= $dark-primary
 
 @import 'style'
 
@@ -230,12 +230,18 @@ $searchbox-bg-result-item-hover ?= $white
     article.article
         .article-more
             clip-button($info, $info-invert)
+        .content
+            blockquote
+                background-color: #2f2f2f !important
+            code
+                background-color: #2f2f2f !important
 
     .content
         blockquote
             background: transparent
             border: .5px solid $blue
             border-left: 5px solid $blue
+        
 
     .footer
         position: relative
