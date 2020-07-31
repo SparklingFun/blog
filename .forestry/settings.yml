@@ -24,8 +24,8 @@ sections:
   label: 其他
   create: documents
   match: "**/*.md"
-upload_dir: public/images
-public_path: https://sparkling-land-blog.s3.ap-east-1.amazonaws.com/public/images
+upload_dir: public/blog/images
+public_path: https://cdn.sparkling.land.s3.ap-east-1.amazonaws.com/public/blog/images
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
