@@ -4,7 +4,7 @@ tags:
 - WSL
 date: 2020-04-22T14:44:42.000+08:00
 title: 利用WSL在Windows下获得更好的开发体验
-excerpt: ''
+excerpt: WSL和WSL2都是大坑，这篇先介绍如何配置，先用起来，之后再更新一篇文章来细数WSL的问题与缺陷……
 thumbnail: ''
 
 ---
