@@ -4,7 +4,7 @@ tags:
 - JavaScript
 date: 2020-03-02T17:48:00.000+08:00
 title: '"Speaking JavaScript"阅读笔记（附加篇）'
-excerpt: ''
+excerpt: JavaScript阅读笔记最终篇，一些额外的内容。
 thumbnail: ''
 
 ---
@@ -117,13 +117,13 @@ HTML5 新增的事件，可以用来作为一些特殊的交互，比如拖放�
 
 1. 不会引发CORS的简单请求：
 
-   ![MDN-CORS](/media/CORS_simple-request.png)
+   ![MDN-CORS](https://cdn.sparkling.land/public/blog/images/CORS_simple-request.png)
 2. 需要进行预检（Preflight）的请求：
 
-   ![MDN-CORS](/media/CORS_preflight-request.png)
+   ![MDN-CORS](https://cdn.sparkling.land/public/blog/images/CORS_preflight-request.png)
 3. 携带身份凭证（Cookie）：
 
-   ![MDN-CORS](/media/CORS_with-credit.png)
+   ![MDN-CORS](https://cdn.sparkling.land/public/blog/images/CORS_with-credit.png)
    
 ### 高级技巧：节流与防抖
 
