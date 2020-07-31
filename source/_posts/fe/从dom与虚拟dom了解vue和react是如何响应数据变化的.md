@@ -4,7 +4,7 @@ tags:
 categories: Frontend
 title: 从DOM与虚拟DOM了解Vue和React是如何响应数据变化的
 date: 2020-01-08T00:00:00.000+08:00
-excerpt: ''
+excerpt: 提起MVVM框架，就不能不提到虚拟DOM，也正是由于虚拟DOM的存在，界面不再是一条条DOM操作驱动的，取而代之的是数据的改变，“自动”地驱动了DOM改变……
 thumbnail: ''
 
 ---
