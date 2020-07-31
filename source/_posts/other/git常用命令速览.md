@@ -9,7 +9,6 @@ thumbnail: ''
 
 ---
 ### git基本概念
-![Git流程](http://pctakto0x.bkt.clouddn.com/2429e4d2661e60027537aea0077f6e40.png)
 
 ### 设置git信息
 - `git config --global user.name "[name]"`
