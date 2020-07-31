@@ -1,10 +1,10 @@
 ---
 tags:
-- 软件模式
+- 云服务
 categories: Other
 title: SaaS, laaS, PaaS这些名词的快速理解
 date: 2020-01-07T00:00:00.000+08:00
-excerpt: ''
+excerpt: "\\*aaS，现在这些概念被各大云平台提来提去，简单说明下概念。"
 thumbnail: ''
 
 ---
