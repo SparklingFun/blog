@@ -5,7 +5,7 @@ tags:
 categories: Frontend
 title: 浏览器的重绘（Repaint）与重排（Reflow）机制
 date: 2019-08-21T00:00:00.000+08:00
-excerpt: ''
+excerpt: 优化重绘与重排是日常优化页面性能较为常见的手段，了解其机制非常重要。
 thumbnail: ''
 
 ---
