@@ -4,7 +4,7 @@ tags:
 categories: Frontend
 title: HTTP状态码
 date: 2019-08-20T00:00:00.000+08:00
-excerpt: ''
+excerpt: HTTP常见的一些状态码，当然，其实有一些业务中的确用不到。
 thumbnail: ''
 
 ---
