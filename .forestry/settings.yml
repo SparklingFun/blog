@@ -25,7 +25,7 @@ sections:
   create: documents
   match: "**/*.md"
 upload_dir: public/blog/images
-public_path: https://s3.ap-east-1.amazonaws.com/cdn.sparkling.land/public/blog/images
+public_path: https://cdn.sparkling.land/public/blog/images
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
