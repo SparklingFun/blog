@@ -4,7 +4,7 @@ tags:
 categories: Frontend
 title: Vue使用自定义指令完成节流和防抖
 date: 2019-08-12T00:00:00.000+08:00
-excerpt: ''
+excerpt: 在与用户有较多互动的场景（搜索，表单智能补全），防抖和节流显得尤为重要，在用户体验与接口性能之间找到绝佳的平衡点。
 thumbnail: ''
 
 ---
