@@ -48,7 +48,6 @@ fields:
   label: 标签
 pages:
 - source/_posts/fe/async-await和promise的一些区别.md
-- source/_posts/fe/css-相关知识点总结.md
 - source/_posts/fe/html-相关知识点总结.md
 - source/_posts/fe/http状态码.md
 - source/_posts/fe/http的缓存机制.md
