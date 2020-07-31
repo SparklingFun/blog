@@ -1,10 +1,10 @@
 ---
 categories: Other
 tags:
-- VPS
+- Linux
 date: 2020-03-26T01:18:34.000+08:00
 title: 利用Docker管理VPS——Nginx篇
-excerpt: ''
+excerpt: 未完待续，nginx直接安装在主机上会比较方便管理。
 thumbnail: ''
 
 ---
