@@ -4,7 +4,7 @@ tags:
 categories: Frontend
 title: JavaScript的原型链与继承
 date: 2019-08-21T16:00:00.000+00:00
-excerpt: ''
+excerpt: 也是经典面试题与概念，简单介绍一下其中的区别与链条关系，后续可以深入再增加一篇文章。
 thumbnail: ''
 
 ---
@@ -27,4 +27,4 @@ thumbnail: ''
 2).接着会在instance1.**proto**(constructor1.prototype)中找一遍,而constructor1.prototype 实际上是instance2, 也就是说在instance2中寻找该属性p1;
 3).如果instance2中还是没有,此时程序不会灰心,它会继续在instance2.**proto**(constructor2.prototype)中寻找...直至Object的原型对象
 
-![](/media/IMG_2448_rmoxtn.jpg)
+![原型链与原型对象](https://cdn.sparkling.land/public/blog/images/IMG_2448_rmoxtn.jpg)
