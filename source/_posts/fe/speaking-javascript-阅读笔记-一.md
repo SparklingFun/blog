@@ -4,7 +4,7 @@ tags:
 - JavaScript
 date: 2020-02-28T07:31:08.000+00:00
 title: '"Speaking JavaScript"阅读笔记（一）'
-excerpt: ''
+excerpt: Speaking JavaScript，忘记捡起这本书的原因了，但是这一轮把欠下的债认真还了一边，收获良多，这一篇大部分都是铺垫的内容。
 thumbnail: ''
 
 ---
@@ -14,7 +14,7 @@ thumbnail: ''
 
 ~~为什么没有用最新的第四版高程呢？因为2019.10.16才正式有英文版，而且作者和第三版不是同一位……等到出了正式中文版再做一次补充吧~~
 
-![Speaking JavaScript](/media/orm_front_cover.jpg "中文名：深入理解JavaScript")
+![Speaking JavaScript](https://cdn.sparkling.land/public/blog/images/orm_front_cover.jpg "中文名：深入理解JavaScript")
 
 # 0. JavaScript背景知识
 
