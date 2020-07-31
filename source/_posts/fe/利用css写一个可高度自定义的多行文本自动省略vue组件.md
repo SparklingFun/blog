@@ -1,12 +1,10 @@
 ---
 tags:
 - CSS
-- Vue.js
-- 前端
 categories: Frontend
 title: 利用CSS写一个可高度自定义的多行文本自动省略Vue组件
 date: 2019-08-12T00:00:00.000+08:00
-excerpt: ''
+excerpt: 对于展示型页面，多行文本省略非常常见，但是实现时往往要通过嵌套，而且并不够足够精确，这里借鉴一位前辈的方案实现一个小的Vue组件实现多行省略。
 thumbnail: ''
 
 ---
@@ -23,7 +21,6 @@ display: -webkit-box;
 ```
 
 但这两种方法仅限于截断后在末尾添加省略号，如果有类似这样的需求，既不是纯色背景，又不能使用渐变的时候，就不容易计算末尾处如何控制溢出
-![多行文本溢出后在末尾定位链接等](http://pctakto0x.bkt.clouddn.com/TIM截图20180830114346.png)
 
 这里引用[大神hi](http://hai.li/2017/03/08/css-multiline-overflow-ellipsis.html)的解决方法，仅使用css解决这个问题，本文使用 _Vue + Stylus_ 完成这个方案
 
@@ -50,7 +47,6 @@ export default {
 那么有了以上的几个属性，我们开始组织我们的html结构
 
 ### 盒子结构以及原理
-![按需显示更多](http://pctakto0x.bkt.clouddn.com/show-on-demand.gif)
 如图所示，这里利用了一个块元素检测左侧高度与整体高度，当文本超出时，整个内部高度被撑开，使得“更多”块有空间移动到左侧。
 
 ```html
