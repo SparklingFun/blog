@@ -4,7 +4,7 @@ tags:
 - JavaScript
 date: 2020-03-16T01:46:02.000+08:00
 title: JavaScript面向对象编程(ES6版本)
-excerpt: ''
+excerpt: 虽然目前忙的任务，对JS的OOP一点好感也没有，但还是得对OOP加深印象，毕竟也是一种经典的范式（所以说，用的好是经典，用的不好是神经，当年C++写OOP就满糟糕的……）
 thumbnail: ''
 
 ---
