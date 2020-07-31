@@ -4,7 +4,7 @@ tags:
 - JavaScript
 date: 2020-02-29T18:57:46.000+00:00
 title: '"Speaking JavaScript"阅读笔记（二）'
-excerpt: ''
+excerpt: JavaScript阅读笔记第二部分，这部分是JS的一些基本内容。
 thumbnail: ''
 
 ---
