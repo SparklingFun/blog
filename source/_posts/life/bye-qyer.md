@@ -1,8 +1,6 @@
 ---
 tags:
-- 离别
 - 工作
-- 再见
 categories: Life
 title: Bye QYER
 date: 2019-08-17T16:00:00.000+00:00
