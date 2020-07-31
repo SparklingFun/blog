@@ -4,7 +4,7 @@ tags:
 categories: Frontend
 title: HTTP的缓存机制
 date: 2019-08-20T00:00:00.000+08:00
-excerpt: ''
+excerpt: 又是经典面试题，不妨花几分钟时间好好记忆下来。
 thumbnail: ''
 
 ---
