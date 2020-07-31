@@ -4,7 +4,7 @@ tags:
 categories: Frontend
 title: OSI七层模型&TCP/IP四层模型
 date: 2019-08-19T16:00:00.000+00:00
-excerpt: ''
+excerpt: OSI七层模型，本科计算机网络的“老番”，其实对于前端而言，相对底层的接触会比较少，更多的仍在上层。
 thumbnail: ''
 
 ---
@@ -33,4 +33,4 @@ TCP/IP通讯协议采用了4层的层级结构，每一层都呼叫它的下一�
 * 网络层：负责提供基本的数据封包传送功能，让每一块数据包都能够到达目的主机（但不检查是否被正确接收），如网际协议（IP）。
 * 网络接口层：对实际的网络媒体的管理，定义如何使用实际网络（如Ethernet、Serial Line等）来传送数据。
 
-![](/media/2018032308260661_hwybit.jpg)
+![对比图示](https://cdn.sparkling.land/public/blog/images/2018032308260661_hwybit.jpg)
