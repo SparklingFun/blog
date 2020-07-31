@@ -4,7 +4,7 @@ tags:
 categories: Frontend
 title: 养成好习惯 - HTML语义化
 date: 2019-08-12T00:00:00.000+08:00
-excerpt: ''
+excerpt: 在平时开发时，尽量使用语义化的标签，利人利己。
 thumbnail: ''
 
 ---
