@@ -5,7 +5,7 @@ tags:
 categories: Frontend
 title: 前端看HTTP
 date: 2019-08-18T16:00:00.000+00:00
-excerpt: ''
+excerpt: HTTP是每一个前端应该知道的基础知识，本文综合了几个来源，总结了一些常用的知识点。
 thumbnail: ''
 
 ---
