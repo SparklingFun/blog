@@ -4,7 +4,7 @@ tags:
 categories: Frontend
 title: script标签有几种写法
 date: 2019-08-16T16:00:00.000+00:00
-excerpt: ''
+excerpt: 老梗新用，“茴”字有几种写法？其实<script>标签也有很多写法，用这篇文章再梳理一遍加深印象。
 thumbnail: ''
 
 ---
@@ -20,7 +20,7 @@ thumbnail: ''
 
 区别如下
 
-![](/media/16285181c4ab990d_goqvkh.png)
+![script标签属性区别](https://cdn.sparkling.land/public/blog/images/16285181c4ab990d_goqvkh.png)
 
 如图可知，async不影响页面解析过程，但是加载完成执行过程会终止parsing；
 而defer是在过程中加载，等到页面解析完成后才执行。
