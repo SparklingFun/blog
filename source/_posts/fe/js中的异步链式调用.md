@@ -4,7 +4,7 @@ tags:
 categories: Frontend
 title: JS中的异步链式调用
 date: 2020-02-16T16:00:00.000+00:00
-excerpt: ''
+excerpt: 经典面试题，这里给出一种思路较为直接的解法。
 thumbnail: ''
 
 ---
