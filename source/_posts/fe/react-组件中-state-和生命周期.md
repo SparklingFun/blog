@@ -4,7 +4,7 @@ tags:
 categories: Frontend
 title: React 组件中 state 和生命周期
 date: 2019-08-18T16:00:00.000+00:00
-excerpt: ''
+excerpt: React在面试中曾经也有碰到，这里简单记录加深印象。
 thumbnail: ''
 
 ---
@@ -12,7 +12,7 @@ thumbnail: ''
 
 v16.3和v16.4+版本的生命周期有着比较大的区别，感谢大神制作了一个[React生命周期图谱](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/) 这里截图说明：
 
-![](/media/React生命周期_jp8yqw.jpg)
+![React生命周期](https://cdn.sparkling.land/public/blog/images/React生命周期_jp8yqw.jpg)
 
 * constructor
   **如果不初始化 state 或不进行方法绑定，则不需要为 React 组件实现构造函数。**
