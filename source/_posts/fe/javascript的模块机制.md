@@ -4,7 +4,7 @@ tags:
 - JavaScript
 date: 2020-03-18T15:24:18.000+08:00
 title: JavaScript的模块机制
-excerpt: ''
+excerpt: 模块机制还是一个非常需要注意的细节，这里简单说明四种常见的模块机制，主要区分AMD，CMD，ES6 Module。
 thumbnail: ''
 
 ---
