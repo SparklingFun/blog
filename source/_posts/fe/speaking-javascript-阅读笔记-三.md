@@ -4,7 +4,7 @@ tags:
 - JavaScript
 date: 2020-03-01T10:18:25.000+00:00
 title: '"Speaking JavaScript"阅读笔记（三）'
-excerpt: ''
+excerpt: JavaScript阅读笔记第三部分，这部分进入到了核心部分——函数，变量，对象。
 thumbnail: ''
 
 ---
