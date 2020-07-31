@@ -4,7 +4,7 @@ tags:
 categories: Frontend
 title: Task, Job 与 EventLoop
 date: 2019-08-20T16:00:00.000+00:00
-excerpt: ''
+excerpt: 经久不衰的话题，我找到了一篇非常有趣的解释文章，详细说明了其中的区别，争取一文讲通JavaScript的循环机制！
 thumbnail: ''
 
 ---
