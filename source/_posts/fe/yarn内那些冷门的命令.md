@@ -4,7 +4,7 @@ tags:
 categories: Frontend
 title: Yarn内那些冷门的命令
 date: 2020-01-05T16:00:00.000+00:00
-excerpt: ''
+excerpt: 这篇文章在忘记命令的时候还会快速访问看看，不要再只用install和add了！
 thumbnail: ''
 
 ---
