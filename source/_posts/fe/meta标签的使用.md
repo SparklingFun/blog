@@ -4,7 +4,7 @@ tags:
 categories: Frontend
 title: meta标签的使用
 date: 2019-08-17T00:00:00.000+08:00
-excerpt: ''
+excerpt: meta标签我们总是一键生成，但是忽略了里面一些特殊属性值所能带来方便，这篇文章简单列出一些常用但缺少注意的标签值。
 thumbnail: ''
 
 ---
