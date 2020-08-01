@@ -120,3 +120,4 @@ wrangler.toml
 
 # ignore dist...
 public
+db.json
