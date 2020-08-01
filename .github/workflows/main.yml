@@ -17,12 +17,13 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Install packages
-    - name: Install Node.js Packages & Hexo
-      run: yarn install && yarn build
+      - uses: actions/checkout@master
+      # Install packages
+      - name: Install Node.js Packages & Hexo
+        run: yarn install && yarn build
 
-    # Runs a single command using the runners shell
-    - name: Deploy to Cloudflare Workers with Wrangler
-      uses: cloudflare/wrangler-action@1.2.0
-      with:
-        apiToken: ${{ secrets.CF_WORKER_API_TOKEN }}
+      # Runs a single command using the runners shell
+      - name: Deploy to Cloudflare Workers with Wrangler
+        uses: cloudflare/wrangler-action@1.2.0
+        with:
+          apiToken: ${{ secrets.CF_WORKER_API_TOKEN }}
