@@ -46,3 +46,61 @@ Forestry.io支持四种Git来源：Github, Gitlab, Bitbucket, Azure Devops。
 导入完成，进入到CMS的主界面。
 
 ![CMS主界面](https://cdn.sparkling.land/public/blog/images/step4.png)
+
+## 简单设置
+
+如同上面的CMS显示，我们只要将剩下三步配置完成即可。
+
+### Set up sidebar
+
+侧边栏是一些快捷入口，这里你可以配置三类：
+
+![侧边栏配置](https://cdn.sparkling.land/public/blog/images/setting1.png)
+
+* 目录: 顾名思义，目录可以用作分类等场合，对应的，所有在分类下创建的文档都会进入到对应的目录下；
+* 文档: 直接编辑某一篇文档，适合作为介绍页或者文档页的快捷入口；
+* Heading: Heading是一个 **没有内容** 的侧边栏选项，适合作为分割线等等，来定制你的侧边栏；
+
+这里添加一个Section，可以看到可以配置很多项，一般默认即可，如果不希望分类下额外存在目录，可以将创建内容改为Documents
+
+![创建侧边栏](https://cdn.sparkling.land/public/blog/images/setting2.png)
+
+这里我们先不配置默认模板，先保存。
+
+### Import Media
+
+重头戏来了，之所以选择一个CMS，最重要的就是我们很多时候有上传图片的需求，但是无论是Git手动提交还是第三方工具上传，都费时费力，还需要手工粘贴图片的绝对地址。
+
+而有了CMS，这一切都简化了。
+
+![](https://cdn.sparkling.land/public/blog/images/setting3.png "配置媒体文件")
+
+如图所示，可以支持四种图片管理方式，最普通的Git提交，第三方支持了Cloudinary和Amazon S3以及Netlify Large Media。
+
+> Cloudinary可以免费试用，它是一个积分制的服务，如果你的博客流量较小，那么它的免费量其实足以；
+>
+> Amazon S3这里特别提一下，目前有很多VPS厂家会提供Object Storage，他们会提供类似S3的管理方式，但是咨询了Forestry.io的技术支持后，明确表示了 **目前支持的S3仅有Amazon，即你暂时无法通过配置其他域名来实现其他S3的配置** 。
+
+如果配置顺利，在“可视化编辑器”内，你就可以点击这里实现上传直接插入文档中：
+
+![](https://cdn.sparkling.land/public/blog/images/setting4.png "添加图片")
+
+点击open后，会跳转到你的媒体库，上传即自动插入到文章中。
+
+## 配置预览
+
+Forestry.io支持在发布前进行预览，需要配置预览的相关命令，环境以Node.js为主，也可以进行自定义，本章内容建议详细参阅官方文档的 [配置页面](https://forestry.io/docs/previews/instant-previews/)
+
+## 设置文章模板
+
+这一章也是非常重要的，我们在前面的Section里可以设置默认模板，这就是为了方便统一类别下的文章格式一致(Front matter)，点击左侧的Front matter进入配置界面。
+
+点击添加模板后，可以全新创建，也可以从已有的文章自动分析。
+
+> 我自己使用时发现，文本编辑的识别率较好，如果是类似标签选择的则会识别错误，建议先导入，然后添加一篇新文章进行测试。
+
+一般对于Markdown的博客写作，我们选择左侧的“Fields and big content area”。
+
+![](https://cdn.sparkling.land/public/blog/images/setting5.png)
+
+Forestry.io提供了一些Field选项，对于博客写作，它们可以与你的Front matter一一对应，通过交互实现配置Front matter，进而与你的博客主题（如Banner图，文章简介等等）比较好的对应，具体使用可以自己体验一下。
