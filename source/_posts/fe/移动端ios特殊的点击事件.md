@@ -1,11 +1,10 @@
 ---
 tags:
-- 前端
 - Safari
 categories: Frontend
 title: 移动端iOS特殊的点击事件
 date: 2019-08-13T00:00:00.000+08:00
-excerpt: ''
+excerpt: 又在iOS的点击事件上踩坑了，iOS的Safari会对触发条件要求比较高，如果你也踩坑了可以花几分钟看看
 thumbnail: ''
 
 ---
