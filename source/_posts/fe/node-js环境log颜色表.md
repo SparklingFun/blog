@@ -1,7 +1,6 @@
 ---
 tags:
 - Node.js
-- Cheatsheet
 categories: Frontend
 title: Node.js环境log颜色表
 date: 2019-08-12T00:00:00.000+08:00
