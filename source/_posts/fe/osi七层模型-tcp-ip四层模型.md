@@ -1,6 +1,6 @@
 ---
 tags:
-- TCP
+- HTTP
 categories: Frontend
 title: OSI七层模型&TCP/IP四层模型
 date: 2019-08-19T16:00:00.000+00:00
