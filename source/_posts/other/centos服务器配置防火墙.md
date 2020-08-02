@@ -1,6 +1,5 @@
 ---
 tags:
-- CentOS
 - Linux
 categories: Other
 title: CentOS服务器配置防火墙
