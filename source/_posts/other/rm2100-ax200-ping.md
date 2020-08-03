@@ -5,10 +5,7 @@ tags:
 - 路由器
 date: 2020-06-14T16:34:26.000+08:00
 title: 红米RM2100+AX200诡异跳ping问题
-excerpt: |-
-  结论是：AX200在连接RM2100(Padavan)的5G 160Mhz无线信号时，出现跳ping（波动至250+）。
-
-  解决方案：设置RM2100的5G WiFi以20/40/80Mhz使用，目前跳ping得到缓解。
+excerpt: 更新：使用了恩山的“啊Dee”的Padavan固件，稳定使用160Mhz。
 thumbnail: ''
 
 ---
@@ -17,6 +14,8 @@ thumbnail: ''
 结论是：AX200在连接RM2100(Padavan)的5G 160Mhz无线信号时，出现跳ping（波动至250+）。
 
 解决方案：设置RM2100的5G WiFi以20/40/80Mhz使用，目前跳ping得到缓解。
+
+更新：使用了恩山的“啊Dee”的Padavan固件，稳定使用160Mhz，给一个[论坛链接](https://www.right.com.cn/forum/thread-4033492-1-1.html) 如果后续遇到新的问题会在本文中更新。
 
 ## 我的网络搭配
 
