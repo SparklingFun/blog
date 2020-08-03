@@ -1,0 +1,24 @@
+._tool-share
+    position relative
+    height 2em
+    line-height 2em
+    margin-bottom: 1em
+    span
+        cursor pointer
+        padding 0 .5em
+    #_tool-share-qrcode-box
+        // transition all .3s linear
+        padding: 8px
+        position absolute
+        border-radius: .5em
+        background-color: $white-bis
+        overflow hidden
+        width: 148px
+        height 148px
+    #_tool-share-qrcode-canvas
+        position relative
+
+@media (prefers-color-scheme: dark)
+    ._tool-share
+        #_tool-share-qrcode-box
+            background-color: $night-dark-label
