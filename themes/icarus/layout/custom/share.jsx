@@ -95,7 +95,7 @@ module.exports = class extends Component {
         });`;
         return <Fragment>
             <aside class="_tool-share" id="_tool-share-qrcode-wrapper">
-                <span id="_tool-share-qrcode-switcher" data-status={false}>二维码分享</span><span id="_tool-share-qrcode-copy" style="display: none;">复制分享链接</span>
+                <span id="_tool-share-qrcode-switcher" data-status={false}>二维码分享</span><span id="_tool-share-qrcode-copy">复制分享链接</span>
                 <figure id="_tool-share-qrcode-box" style="display: none;">
                     <canvas id="_tool-share-qrcode-canvas"></canvas>
                 </figure>
