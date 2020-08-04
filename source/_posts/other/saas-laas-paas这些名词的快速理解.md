@@ -1,6 +1,6 @@
 ---
 tags:
-- 云服务
+- 概念
 categories: Other
 title: SaaS, laaS, PaaS这些名词的快速理解
 date: 2020-01-07T00:00:00.000+08:00
