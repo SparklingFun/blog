@@ -66,7 +66,7 @@ docker-compose build && docker-compose run --rm web upgrade && docker-compose up
 
 ## 坑
 
-私有部署依赖于Sentry和它的很多镜像，以及一些第三方镜像。由于Sentry 10的自建版本仍在开发迭代中，强烈推荐使用docker的原始源进行安装，成功率较高，如果使用镜像，可能存在Bug导致无法安装，需要注意。
+私有部署依赖于Sentry和它的很多镜像，以及一些第三方镜像。由于Sentry 20的自建版本仍在 __非常积极地__ 开发迭代中，强烈推荐使用docker的原始源进行安装，成功率较高，如果使用镜像，可能存在Bug导致无法安装，需要注意。
 
 强烈建议将postgres数据和sentry-data挂载到机器目录上，可以较好的保存持久化的信息。
 
