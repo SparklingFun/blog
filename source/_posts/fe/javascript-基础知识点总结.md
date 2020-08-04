@@ -1,6 +1,5 @@
 ---
-tags:
-- Javascript
+tags: []
 categories: Frontend
 title: Javascript 基础知识点总结
 date: 2019-08-12T00:00:00.000+08:00
