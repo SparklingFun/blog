@@ -2,7 +2,6 @@
 categories: Other
 tags:
 - 记录
-- 路由器
 date: 2020-06-14T16:34:26.000+08:00
 title: 红米RM2100+AX200诡异跳ping问题
 excerpt: 更新：使用了恩山的“啊Dee”的Padavan固件，稳定使用160Mhz。
