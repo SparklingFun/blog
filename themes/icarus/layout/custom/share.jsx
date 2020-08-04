@@ -14,7 +14,7 @@ module.exports = class extends Component {
             // have bugs...
             function copyToClipboard(text) {
                 if (text === "") return;
-                var ipt = document.createElement('input')
+                var ipt = document.createElement('textarea')
                 ipt.setAttribute(
                     'style',
                     'position:absolute;z-index:-1;width:1px;height:1px;top:-1px;opacity:0;-webkit-user-select: text;'
