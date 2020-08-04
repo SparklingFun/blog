@@ -69,10 +69,10 @@ module.exports = class extends Component {
                 if(__shortText__ && !copiedFlag) {
                     copyToClipboard('https://arcto.xyz/s/'+__shortText__);
                     copiedFlag = true;
-                    shareQrcodeCopy.text = "已成功复制链接~";
+                    shareQrcodeCopy.innerText = "已成功复制链接~";
                     setTimeout(function() {
                         copiedFlag = false;
-                        shareQrcodeCopy.text = "复制分享链接";
+                        shareQrcodeCopy.innerText = "复制分享链接";
                     }, 300);
                 }
             })
