@@ -1,7 +1,8 @@
 ---
 categories: Other
 date: 2020-08-22T10:49:36+08:00
-tags: []
+tags:
+- Linux
 title: 解决切换用户提示的sed报错
 excerpt: 使用WSL时，考虑到已有的环境已经配置好了，使用import复制了一个容器运行在WSL1下，遇到了sed报错，这里是一个解决思路
 thumbnail: ''
