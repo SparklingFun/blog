@@ -84,6 +84,7 @@ pages:
 - source/_posts/fe/执行npm命令报lifecycle的警告解决.md
 - source/_posts/fe/浏览器的重绘-repaint-与重排-reflow-机制.md
 - source/_posts/fe/移动端ios特殊的点击事件.md
+- source/_posts/fe/跨域这个问题还得单独揪出来说一下.md
 - source/_posts/life/bye-qyer.md
 - source/_posts/other/centos服务器配置防火墙.md
 - source/_posts/other/forestry.io.md
