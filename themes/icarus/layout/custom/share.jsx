@@ -87,6 +87,7 @@ module.exports = class extends Component {
                 contentType : 'application/json',
                 type: 'POST',
                 success: function(data) {
+                    console.log(data);
                     if (data.errcode === 0) {
                         __shortText__ = data.data[0].to;
                         // 正常情况均会返回URL（无论新的或是已存在的）
