@@ -81,18 +81,22 @@ module.exports = class extends Component {
             var canvas = document.getElementById('_tool-share-qrcode-canvas');
             var container = document.getElementById('_tool-share-qrcode-wrapper');
             // 基于短链接服务生成短链
-            $.post('https://arcto.xyz/api/v1/shorten/create', {
-                url: window.location.href
-            }, function(data) {
-                if (data.errcode === 0) {
-                    __shortText__ = data.data[0].to;
-                    // 正常情况均会返回URL（无论新的或是已存在的）
-                    QRCode.toCanvas(canvas, 'https://arcto.xyz/s/' + __shortText__, function (error) {
-                        if (error) console.error(error);
-                    })
+            $.ajax({
+                url: 'https://arcto.xyz/api/v1/shorten/create',
+                data: JSON.stringify({url: window.location.href}),
+                contentType : 'application/json',
+                type: 'POST',
+                success: function(data) {
+                    if (data.errcode === 0) {
+                        __shortText__ = data.data[0].to;
+                        // 正常情况均会返回URL（无论新的或是已存在的）
+                        QRCode.toCanvas(canvas, 'https://arcto.xyz/s/' + __shortText__, function (error) {
+                            if (error) console.error(error);
+                        })
+                    }
+                    console.error(data.msg);
+                    container.style.display = "none";
                 }
-                console.error(data.msg);
-                container.style.display = "none";
             })
         });`;
         return <Fragment>
