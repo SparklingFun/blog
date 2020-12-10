@@ -32,6 +32,7 @@
     "kv4cf": "^0.1.0"
   },
   "devDependencies": {
+    "babel-plugin-inferno": "^6.1.1",
     "minimist": "^1.2.5"
   }
 }
