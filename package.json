@@ -10,7 +10,7 @@
     "build": "hexo g"
   },
   "dependencies": {
-    "bulma-stylus": "0.8.1-rc.2",
+    "bulma-stylus": "=0.8.0",
     "deepmerge": "^4.2.2",
     "hexo": "^5.2.0",
     "hexo-component-inferno": "^0.10.4",
