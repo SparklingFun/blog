@@ -93,9 +93,10 @@ module.exports = class extends Component {
                         QRCode.toCanvas(canvas, 'https://arcto.xyz/s/' + __shortText__, function (error) {
                             if (error) console.error(error);
                         })
+                    } else {
+                        console.error(data.msg);
+                        container.style.display = "none";
                     }
-                    console.error(data.msg);
-                    container.style.display = "none";
                 }
             })
         });`;
