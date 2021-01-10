@@ -27,4 +27,4 @@ thumbnail: ''
 2).接着会在instance1.**proto**(constructor1.prototype)中找一遍,而constructor1.prototype 实际上是instance2, 也就是说在instance2中寻找该属性p1;
 3).如果instance2中还是没有,此时程序不会灰心,它会继续在instance2.**proto**(constructor2.prototype)中寻找...直至Object的原型对象
 
-![原型链与原型对象](https://cdn.sparkling.land/public/blog/images/IMG_2448_rmoxtn.jpg)
+![原型链与原型对象](https://oss.sparkling.fun/puburl/W8CeRbGoJx/prototype-chain.jpg)
