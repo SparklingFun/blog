@@ -41,11 +41,11 @@ Forestry.io支持四种Git来源：Github, Gitlab, Bitbucket, Azure Devops。
 
 第三步就来到了仓库选择，直接选择你想要操作的仓库与分支，如果你不想让Forestry提交commit到master，请在此选择一个编辑分支。
 
-![选择仓库与分支](https://oss.sparkling.fun/puburl/MRAxp5KnKM/forestry-step3.png)
+![选择仓库与分支](https://oss.sparkling.fun/puburl/5f3dDUEfaM/forestry-step3.png)
 
 导入完成，进入到CMS的主界面。
 
-![CMS主界面](https://oss.sparkling.fun/puburl/I9GdPoXihm/forestry-step4.png)
+![CMS主界面](https://oss.sparkling.fun/puburl/YjR2YCevvz/forestry-step4.png)
 
 ## 简单设置
 
@@ -55,7 +55,7 @@ Forestry.io支持四种Git来源：Github, Gitlab, Bitbucket, Azure Devops。
 
 侧边栏是一些快捷入口，这里你可以配置三类：
 
-![侧边栏配置](https://oss.sparkling.fun/puburl/tghIHBq52r/forestry-setting1.png)
+![侧边栏配置](https://oss.sparkling.fun/puburl/XBk14rCh0C/forestry-setting1.png)
 
 * 目录: 顾名思义，目录可以用作分类等场合，对应的，所有在分类下创建的文档都会进入到对应的目录下；
 * 文档: 直接编辑某一篇文档，适合作为介绍页或者文档页的快捷入口；
@@ -63,7 +63,7 @@ Forestry.io支持四种Git来源：Github, Gitlab, Bitbucket, Azure Devops。
 
 这里添加一个Section，可以看到可以配置很多项，一般默认即可，如果不希望分类下额外存在目录，可以将创建内容改为Documents
 
-![创建侧边栏](https://oss.sparkling.fun/puburl/i2lodIN94c/forestry-setting2.png)
+![创建侧边栏](https://oss.sparkling.fun/puburl/CYr7mUQn0j/forestry-setting2.png)
 
 这里我们先不配置默认模板，先保存。
 
@@ -73,7 +73,7 @@ Forestry.io支持四种Git来源：Github, Gitlab, Bitbucket, Azure Devops。
 
 而有了CMS，这一切都简化了。
 
-![](https://oss.sparkling.fun/puburl/skvtIeFhLq/forestry-setting3.png "配置媒体文件")
+![](https://oss.sparkling.fun/puburl/O551Dd5Caj/forestry-setting3.png "配置媒体文件")
 
 如图所示，可以支持四种图片管理方式，最普通的Git提交，第三方支持了Cloudinary和Amazon S3以及Netlify Large Media。
 
@@ -83,7 +83,7 @@ Forestry.io支持四种Git来源：Github, Gitlab, Bitbucket, Azure Devops。
 
 如果配置顺利，在“可视化编辑器”内，你就可以点击这里实现上传直接插入文档中：
 
-![](https://oss.sparkling.fun/puburl/gP3TCrTrLG/forestry-setting4.png "添加图片")
+![](https://oss.sparkling.fun/puburl/3CP95ySuLD/forestry-setting4.png "添加图片")
 
 点击open后，会跳转到你的媒体库，上传即自动插入到文章中。
 
@@ -101,6 +101,6 @@ Forestry.io支持在发布前进行预览，需要配置预览的相关命令，
 
 一般对于Markdown的博客写作，我们选择左侧的“Fields and big content area”。
 
-![](https://oss.sparkling.fun/puburl/fP8-rlScH6/forestry-setting5.png)
+![](https://oss.sparkling.fun/puburl/bHjA1gRulJ/forestry-setting5.png)
 
 Forestry.io提供了一些Field选项，对于博客写作，它们可以与你的Front matter一一对应，通过交互实现配置Front matter，进而与你的博客主题（如Banner图，文章简介等等）比较好的对应，具体使用可以自己体验一下。
