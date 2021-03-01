@@ -1029,10 +1029,10 @@ buffer-from@^1.0.0:
   resolved "https://registry.yarnpkg.com/buffer-from/-/buffer-from-1.1.1.tgz#32713bc028f75c02fdb710d7c7bcec1f2c6070ef"
   integrity sha512-MQcXEUbCKtEo7bhqEs6560Hyd4XaovZlO/k9V3hjVUF/zwW7KBVdSK4gIt/bzwS9MbR5qob+F5jusZsb0YQK2A==
 
-bulma-stylus@0.8.1-rc.2:
-  version "0.8.1-rc.2"
-  resolved "https://registry.yarnpkg.com/bulma-stylus/-/bulma-stylus-0.8.1-rc.2.tgz#e4de070ed8283574df4bcf3b14ad6a6fdc6679f5"
-  integrity sha512-P8LGGZ0oxB6E5cNl/Vse/ZrS/y6FaflLHK9eYxnqimIgxd1a4xQZBLnipCGzvG4oDsaMrJM369oUUyhV7qZjZA==
+bulma-stylus@=0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/bulma-stylus/-/bulma-stylus-0.8.0.tgz#137c182a1fdf9ac82f2e73bd3163aac454b105ae"
+  integrity sha512-9Q9BMPeHFyJ5EWh/tJPCcLDYEovKzUBOyMHsKEIyxSYEKG8wqt9RVuTumaJ2AfDjyHC9OifWKOfJSweKYD5IMQ==
 
 bytes@3.0.0:
   version "3.0.0"
@@ -2345,9 +2345,9 @@ pretty-hrtime@^1.0.3:
   integrity sha1-t+PqQkNaTJsnWdmeDyAesZWALuE=
 
 prismjs@^1.17.1:
-  version "1.21.0"
-  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.21.0.tgz#36c086ec36b45319ec4218ee164c110f9fc015a3"
-  integrity sha512-uGdSIu1nk3kej2iZsLyDoJ7e9bnPzIgY0naW/HdknGj61zScaprVEVGHrPoXqI+M9sP0NDnTK2jpkvmldpuqDw==
+  version "1.23.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.23.0.tgz#d3b3967f7d72440690497652a9d40ff046067f33"
+  integrity sha512-c29LVsqOaLbBHuIbsTxaKENh1N2EQBOHaWv7gkHN4dgRbxSREqDnDbtFJYdpPauS4YCplMSNCABQ6Eeor69bAA==
   optionalDependencies:
     clipboard "^2.0.0"
 
